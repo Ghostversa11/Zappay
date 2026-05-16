@@ -14,14 +14,6 @@ Crypto transfers today require users to install wallets, remember seed phrases, 
 
 ---
 
-## 🚀 Live Demo
-
-- **WhatsApp Bot**: Message `+1 415 523 8886` (Twilio Sandbox)
-- **Dashboard**: [https://zappay.vercel.app](https://zappay.vercel.app)
-- **Contract**: [`0x9EF05bB79358e602b21575204F2EF6dC310E1b1D`](https://testnet-scanner.helachain.com/address/0x9EF05bB79358e602b21575204F2EF6dC310E1b1D)
-
----
-
 ## 📦 Project Structure
 
 ```
