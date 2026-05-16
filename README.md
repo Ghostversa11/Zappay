@@ -275,11 +275,6 @@ VITE_API_URL=http://localhost:3001/api
 
 ---
 
-## 👥 Team
-
-**BLOCKCHAIN-XIII** · HackJKLU v5.0
-
----
 
 ## 📄 License
 
